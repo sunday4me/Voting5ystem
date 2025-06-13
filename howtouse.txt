@@ -1,0 +1,9 @@
+How to use the app
+first you need to have a server install recommend xampp or wamp depend on the one you tend to you but advice to use xampp.
+import a file name userdata.sql to your database.
+The data in the file name userdata.sql is just sample of the details of the users use to test the system.
+you can now access the dashboard of the system with localhost/voting. 
+Note: You must have copy or cut the unzip file to a folder name htdocs in xampp folder 
+Locate your xampp folder from your drive c or any drive u install the xampp into. 
+Something like this C:\xampp\htdocs is how to locate the htdocs where u are going to drop the folder voting 
+Best of Luck 
